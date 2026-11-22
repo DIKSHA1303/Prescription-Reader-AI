@@ -1,2 +1,0 @@
-# Prescription Reader AI
-
